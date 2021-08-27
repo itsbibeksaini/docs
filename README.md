@@ -3,7 +3,7 @@
 | :------- | :--: | :--: | :--: | :--: |
 | IdentityApi | x | 5001 | ASP.NET Core |
 | ~~AuthApi~~  | ~~x~~ | ~~5001~~ | ~~ASP.NET Core~~ | ~~C#~~ |
-| ~~AccountApi~~ | ~~6001~~ | ~~5002~~ | ~~ASP.NET Core~~ | ~~c#~~ |
+| ~~AccountApi~~ | ~~6001~~ | ~~5002~~ | ~~ASP.NET Core~~ | ~~C#~~ |
 | PolicyApi | 6002 | 5003 | ASP.NET Core | C# |
 | SettingsApi | x | 5004 | SpringBoot | Java |
 | NotificationsApi | x | 5005 | ASP.NET Core | C# |
