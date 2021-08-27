@@ -9,10 +9,11 @@
 | NotificationsApi | x | 5005 | ASP.NET Core | C# |
 
 ## Starting new service
-| Tech | Link |
-| ---- | ---- |
-| .NET Core | [Link](https://github.com/itsbibeksaini/docs/blob/main/dotnet-service.md) |
-| SpringBoot | Link |
+| Framework | Language | Link |
+| ---- | ---- | ---- |
+| .NET Core | C#.NET | [Link](https://github.com/itsbibeksaini/docs/blob/main/dotnet-service.md) |
+| SpringBoot | Java | Link | 
+| SpringBoot | Kotlin | Link |
 
 ## Setting up Kubernetes cluster
 | Tech | Link |
