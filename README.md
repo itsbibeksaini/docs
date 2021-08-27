@@ -11,7 +11,7 @@
 ## Starting new service
 | Tech | Link |
 | ---- | ---- |
-| .NET Core | Link |
+| .NET Core | [Link](https://github.com/itsbibeksaini/docs/blob/main/dotnet-service.md) |
 | SpringBoot | Link |
 
 ## Setting up Kubernetes cluster
