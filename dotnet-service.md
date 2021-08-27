@@ -11,12 +11,16 @@ Generating new project
 > We use single sln approach for multi-project service<br/>
  Either use Visual Studio for creating new project or use cli: ``dotnet new sln``<br/>
  To keep segregation between projects it is recommended that each project should be created in separated folder under sln directory.
-> ## Steps to create new webapp through cli
-> * Create a directory for solution(sln) and run command ``dotnet new sln`` to create sln file.
->   * eg: ``mkdir DemoApi`` navigate to this directory and ``dotnet new sln``
-> * Create separate directories for different projects.
->   * Here we will be creating two directories one ``DempApi`` which will consist of actual project and second will be ``DemoApiTest`` for xUnit project.
->   * Next we will navigate to ``DemoApi`` directory and use command ``dotnet new webapi``. This will use wepapi template to create a project with some default settings configured.    
+> ## Steps to create new webapp
+> * Through cli
+>   * Create a directory for solution(sln) and run command ``dotnet new sln`` to create sln file.
+>     * eg: ``mkdir DemoApi`` navigate to this directory and ``dotnet new sln``
+>   * Create separate directories for different projects.
+>     * Here we will be creating two directories one ``DempApi`` which will consist of actual project and second will be ``DemoApiTest`` for xUnit project.
+>     * Next we will navigate to ``DemoApi`` directory and use command ``dotnet new webapi``. This will use wepapi template to create a project with some default settings configured.
+> * Through IDE
+>   * Using Visual Studio create new project and select Web Api template and follow the wizard.
+    
  
 .NET folder naming convention
 > Recommended approach is to use Pascalcase ``eg: TestService, DemoService``  
