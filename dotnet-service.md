@@ -27,3 +27,4 @@ Generating new project
 > * CamelCase for local variable names.
 >   * add _ to class members.
 >   * Dependency Indected resources must be readonly and should be defined in relevant scope.
+> * For services use Interface pattern so you can have different implementations if desired.
