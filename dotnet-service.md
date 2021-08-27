@@ -24,6 +24,6 @@ Generating new project
  
 .NET folder naming convention
 > * Recommended approach is to use Pascalcase ``eg: TestService, DemoService``  for folder, filenames(including classes, interfaces, enums and others)
-> * CannelCase for local variable names.
+> * CamelCase for local variable names.
 >   * add _ to class members.
 >   * Dependency Indected resources must be readonly and should be defined in relevant scope.
