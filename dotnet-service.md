@@ -22,7 +22,7 @@ Generating new project
 >   * Using Visual Studio create new project and select Web Api template and follow the wizard.
     
  
-.NET folder naming convention
+.NET folder naming convention and patterns
 > * Recommended approach is to use Pascalcase ``eg: TestService, DemoService``  for folder, filenames(including classes, interfaces, enums and others), names of methods.
 > * CamelCase for local variable names.
 >   * add _ to class members.
