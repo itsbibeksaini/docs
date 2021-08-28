@@ -50,7 +50,7 @@ Following TDD approach.
 
 |        Topic        |
 | :-----------------: |
-|    Authorization    |
-| Swashbuckle Swagger |
-|  Entity framework   |
-|     Http Client     |
+|    [Authorization](https://github.com/itsbibeksaini/docs/blob/main/DotNet/authorization.md) |
+| [Swashbuckle Swagger](https://github.com/itsbibeksaini/docs/blob/main/DotNet/swagger.md) |
+|  [Entity framework](https://github.com/itsbibeksaini/docs/blob/main/DotNet/entityframework.md) |
+|     [Http Client] |
