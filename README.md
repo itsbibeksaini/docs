@@ -11,9 +11,8 @@
 ## Starting new service
 | Framework | Language | Link |
 | ---- | ---- | ---- |
-| .NET Core | C#.NET | [Link](https://github.com/itsbibeksaini/docs/blob/main/dotnet-service.md) |
-| SpringBoot | Java | Link | 
-| SpringBoot | Kotlin | Link |
+| .NET Core | C#.NET | [.NET](https://github.com/itsbibeksaini/docs/blob/main/DotNet/README.md) |
+| SpringBoot | Java & Kotlin | [Java](https://github.com/itsbibeksaini/docs/blob/main/SpringBoot/README.md) | 
 
 ## Setting up Kubernetes cluster
 | Tech | Link |
