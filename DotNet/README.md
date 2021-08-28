@@ -30,4 +30,11 @@ Generating new project
 > * For services use Interface pattern so you can have different implementations if desired.
 
 Following TDD approach.
-> .
+> .NET uses separate project for unit test. However, unit test can also be writted within same project but having separate project is recommended.
+> For unit test we use xUnit testing tool which is open source and TDD adherent.
+> ## Steps to create new xUnit project
+> * Through cli
+>   * Follow same approach as above having separate directory for project under your solution folder.
+>   * Use command ``dotnet new xunit`` which uses xunit template to create a project with some default settings configured.
+> * Through IDE
+>   * Using Visual Studio create new project and select xUnit template and follow the wizard.
