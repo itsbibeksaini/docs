@@ -38,3 +38,13 @@ Following TDD approach.
 >   * Use command ``dotnet new xunit`` which uses xunit template to create a project with some default settings configured.
 > * Through IDE
 >   * Using Visual Studio create new project and select xUnit template and follow the wizard.
+
+## How to
+| Topic | 
+| :-----: | 
+| Authorization |
+| Swashbuckel Swagger |
+| Docker support |
+| Helm Chart |
+| Entity framework |
+| gRPC Client and Server |
