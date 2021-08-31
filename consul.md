@@ -2,7 +2,7 @@
 
 Consul is a service networking solution to automate network configurations, discover services, and enable secure connectivity across any cloud or runtime.
 
-##Config
+## Config
 
 ```yaml
 ## Holds values that affect multiple components of the chart.
