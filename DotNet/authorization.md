@@ -7,16 +7,19 @@ Authorization is the function of specifying access rights/privileges to resource
 To enable authorization in your .NET Core application add the following to ConfigureService section of your startup.
 
 > <b>Here we are using Jwt bearer for authorization based on JWT tokne.</b>
->
-> services.AddAuthentication(options =>
+
+```ASP.NET
+services.AddAuthentication(options =>
             {
                 options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
                 options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
             })
->
-> <b>Here you can provide your symetric key and other issuer parameters to validate JWT tokne.</b> 
->
-> services.AddJwtBearer(options =>
+```
+
+> <b>Here you can provide your symetric key and other issuer parameters to validate JWT tokne.</b>
+
+```ASP.NET 
+services.AddJwtBearer(options =>
             {
                 options.RequireHttpsMetadata = false;
                 options.SaveToken = true;
@@ -28,7 +31,9 @@ To enable authorization in your .NET Core application add the following to Confi
                     ValidateAudience = false
                 };
             });
-
+```
 > <b>And add use authorization in Configure to enable its usage.</b>
->
-> app.UseAuthorization();
+
+```
+app.UseAuthorization();
+```
