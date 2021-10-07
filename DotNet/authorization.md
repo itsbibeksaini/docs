@@ -2,6 +2,10 @@
 
 Authorization is the function of specifying access rights/privileges to resources, which is related to general information security and computer security, and to access control in particular.
 
+Dependency required
+
+> - Microsoft.AspNetCore.Authentication.JwtBearer
+
 #### Adding authorization support
 
 To enable authorization in your .NET Core application add the following to ConfigureService section of your startup.
@@ -18,7 +22,7 @@ services.AddAuthentication(options =>
 
 > <b>Here you can provide your symetric key and other issuer parameters to validate JWT tokne.</b>
 
-```ASP.NET 
+```ASP.NET
 services.AddJwtBearer(options =>
             {
                 options.RequireHttpsMetadata = false;
@@ -32,6 +36,7 @@ services.AddJwtBearer(options =>
                 };
             });
 ```
+
 > <b>And add use authorization in Configure to enable its usage.</b>
 
 ```
