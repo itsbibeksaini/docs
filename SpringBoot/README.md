@@ -4,3 +4,10 @@
 
 
 ## Starting new service on SpringBoot
+
+Java Spring Framework (Spring Framework) is a popular, open source, enterprise-level framework for creating standalone, production-grade applications that run on the Java Virtual Machine (JVM).
+
+Java Spring Boot (Spring Boot) is a tool that makes developing web application and microservices with Spring Framework faster and easier through three core capabilities:
+1. Autoconfiguration
+2. An opinionated approach to configuration
+3. The ability to create standalone applications
