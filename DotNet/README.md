@@ -53,4 +53,4 @@ Following TDD approach.
 |    [Authorization](https://github.com/itsbibeksaini/docs/blob/main/DotNet/authorization.md) |
 | [Swashbuckle Swagger](https://github.com/itsbibeksaini/docs/blob/main/DotNet/swagger.md) |
 |  [Entity framework](https://github.com/itsbibeksaini/docs/blob/main/DotNet/entityframework.md) |
-|     [Http Client] |
+|     [Http Client](https://github.com/itsbibeksaini/docs/blob/main/DotNet/httpclient.md) |
