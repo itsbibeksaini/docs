@@ -9,6 +9,7 @@
 | PolicyApi        |   6002   |   5003   |   ASP.NET Core   |    C#    |
 | SettingsApi      |    x     |   5004   |    SpringBoot    |   Java   |
 | NotificationsApi |    x     |   5005   |   ASP.NET Core   |    C#    |
+| ClientApp | x | 80 | Angular | Typescript |
 
 ## Starting new service
 
