@@ -11,25 +11,28 @@
 
 ## Starting new service
 
-| Framework  | Language      | Link                                                                         |
-| ---------- | ------------- | ---------------------------------------------------------------------------- |
-| .NET Core  | C#.NET        | [.NET](https://github.com/itsbibeksaini/docs/blob/main/DotNet/README.md)     |
-| SpringBoot | Java & Kotlin | [Java](https://github.com/itsbibeksaini/docs/blob/main/SpringBoot/README.md) |
+| Framework                                                                    |
+| ---------------------------------------------------------------------------- |
+| [.NET Core](https://github.com/itsbibeksaini/docs/blob/main/DotNet/README.md)     |
+| [SpringBoot](https://github.com/itsbibeksaini/docs/blob/main/SpringBoot/README.md) |
 
 ## Setting up Kubernetes cluster
 
-| Topic              |
-| ------------------ |
-| Consul             |
-| Ingress controller |
-| Cert Manager       |
+| Topic                  |
+| :--------------------- |
+| [Consul]()             |
+| [Ingress controller]() |
+| [Cert Manager]()       |
 
 ## Services and Api's used
-| Topic              |
-| ------------------ |
-| MongoDB |
-| SQL Server |
-| Sendgrid |
+
+| Topic                  |
+| :--------------------- |
+| [MongoDB]()            |
+| [SQL Server]()         |
+| [Sendgrid]()           |
+| [Helm charts]()        |
+| [Ocelot Api gateway]() |
 
 ## Architecture diagram
 
