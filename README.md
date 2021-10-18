@@ -22,3 +22,4 @@
 | Cert Manager | Link |
 
 ## Architecture diagram
+## Pipeline setup
