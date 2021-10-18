@@ -21,3 +21,11 @@ Spring Framework offers a dependency injection feature that lets objects define 
 ## Why SpringBoot?
 
 As capable and comprehensive as Spring Framework is, it still requires significant time and knowledge to configure, set up, and deploy Spring applications. Spring Boot mitigates this effort with three important capabilities.
+
+## Creating new service
+
+For creating spring boot service use spring initializr: [link](https://start.spring.io)
+From spring initializr choose the latest stable version of Spring Boot, add details about the service/project select packaging as jar, and java 17(since java 17 is LTS).
+
+If you wish to use Kotlin the choose language and Kotlin.
+Also there is choice to choose between maven or gradle build system.(I prefer gradle.)
