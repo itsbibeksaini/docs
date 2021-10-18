@@ -2,6 +2,7 @@
 
 | Service          |   gRPC   |   HTTP   |       Tech       | Language |
 | :--------------- | :------: | :------: | :--------------: | :------: |
+| ~~GatewayApi~~       |    ~~x~~     |   ~~5000~~   |   ~~ASP.NET Core~~   |    ~~C#~~    |
 | IdentityApi      |    x     |   5001   |   ASP.NET Core   |    C#    |
 | ~~AuthApi~~      |  ~~x~~   | ~~5001~~ | ~~ASP.NET Core~~ |  ~~C#~~  |
 | ~~AccountApi~~   | ~~6001~~ | ~~5002~~ | ~~ASP.NET Core~~ |  ~~C#~~  |
