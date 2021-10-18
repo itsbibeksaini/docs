@@ -12,7 +12,7 @@
 ## Starting new service
 
 | Framework                                                                    |
-| ---------------------------------------------------------------------------- |
+| :---------------------------------------------------------------------------- |
 | [.NET Core](https://github.com/itsbibeksaini/docs/blob/main/DotNet/README.md)     |
 | [SpringBoot](https://github.com/itsbibeksaini/docs/blob/main/SpringBoot/README.md) |
 
@@ -34,6 +34,6 @@
 | [Helm charts]()        |
 | [Ocelot Api gateway]() |
 
-## Architecture diagram
+## Architecture
 
 ## Pipeline setup
