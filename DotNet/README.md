@@ -56,3 +56,6 @@ Following TDD approach.
 |     [Http Client](https://github.com/itsbibeksaini/docs/blob/main/DotNet/httpclient.md) |
 | [gRPC server and client] |
 | [Startup tasks] |
+| [Custom razor engine] |
+
+
