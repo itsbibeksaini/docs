@@ -98,8 +98,8 @@ server:
 
 | Topics                     |
 | :------------------------- |
-| [Consul ingress gateway]() |
+| [Ingress gateway]() |
 | [Transparent proxy]()      |
-| [Service defaults]()       |
-| [Service routers]()        |
-| [Proxy defaults]()         |
+| [Service default]()       |
+| [Service router]()        |
+| [Proxy default]()         |
