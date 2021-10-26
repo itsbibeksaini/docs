@@ -1,6 +1,6 @@
 ## Services and their port numbers:
 
-| Service          |   gRPC   |   HTTP   |       Tech       | Language |
+| Service          |   gRPC   |   HTTP   |       Framework       | Language |
 | :--------------- | :------: | :------: | :--------------: | :------: |
 | ~~[GatewayApi](https://github.com/itsbibeksaini/GatewayApi)~~       |    ~~x~~     |   ~~5000~~   |   ~~ASP.NET Core~~   |    ~~C#~~    |
 | [IdentityApi](https://github.com/itsbibeksaini/IdentityApi)      |    x     |   5001   |   ASP.NET Core   |    C#    |
