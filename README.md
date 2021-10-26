@@ -15,14 +15,14 @@
 
 | Framework                                                                    |
 | :---------------------------------------------------------------------------- |
-| [.NET Core](https://github.com/itsbibeksaini/docs/blob/main/DotNet/README.md)     |
-| [SpringBoot](https://github.com/itsbibeksaini/docs/blob/main/SpringBoot/README.md) |
+| [.NET Core](https://github.com/itsbibeksaini/docs/blob/main/DotNet)     |
+| [SpringBoot](https://github.com/itsbibeksaini/docs/blob/main/SpringBoot) |
 
 ## Setting up Kubernetes cluster
 
 | Topic                  |
 | :--------------------- |
-| [Consul service mesh](https://github.com/itsbibeksaini/docs/blob/main/Consul/README.md)             |
+| [Consul service mesh](https://github.com/itsbibeksaini/docs/tree/main/Consul)             |
 | [Ingress controller]() |
 | [Cert Manager]()       |
 
