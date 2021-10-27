@@ -34,4 +34,7 @@ Also there is choice to choose between maven or gradle build system.(I prefer gr
 | :---------------- |
 | [Authorization]() |
 | [Swagger]()       |
-| []()
+| [Bootstrap Data]() |
+| [JWT Filter]() |
+| [Security config]() |
+| [Authentication entrypoint]() |
