@@ -7,6 +7,8 @@ Dependency required
 > - Newtonsoft.Json
 > - Microsoft.Extensions.Http
 
+Just a wrapper class to provide HTTP client API in simpler form.
+
 ```C#
 public class TMClient
     {
