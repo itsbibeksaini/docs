@@ -12,7 +12,7 @@ To enable authorization in your .NET Core application add the following to Confi
 
 > <b>Here we are using Jwt bearer for authorization based on JWT tokne.</b>
 
-```ASP.NET
+```C#
 services.AddAuthentication(options =>
             {
                 options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
@@ -22,7 +22,7 @@ services.AddAuthentication(options =>
 
 > <b>Here you can provide your symetric key and other issuer parameters to validate JWT tokne.</b>
 
-```ASP.NET
+```C#
 services.AddJwtBearer(options =>
             {
                 options.RequireHttpsMetadata = false;
@@ -39,6 +39,6 @@ services.AddJwtBearer(options =>
 
 > <b>And add use authorization in Configure to enable its usage.</b>
 
-```
+```C#
 app.UseAuthorization();
 ```
