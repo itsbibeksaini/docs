@@ -32,6 +32,8 @@ Also there is choice to choose between maven or gradle build system.(I prefer gr
 
 | Topic             |
 | :---------------- |
-| [Authorization]() |
 | [Swagger]()       |
-| []()
+| [Bootstrap Data]() |
+| [JWT Filter]() |
+| [Security config]() |
+| [Authentication entrypoint]() |

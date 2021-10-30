@@ -1,6 +1,6 @@
 ## Services and their port numbers:
 
-| Service          |   gRPC   |   HTTP   |       Tech       | Language |
+| Service          |   gRPC   |   HTTP   |       Framework       | Language |
 | :--------------- | :------: | :------: | :--------------: | :------: |
 | ~~[GatewayApi](https://github.com/itsbibeksaini/GatewayApi)~~       |    ~~x~~     |   ~~5000~~   |   ~~ASP.NET Core~~   |    ~~C#~~    |
 | [IdentityApi](https://github.com/itsbibeksaini/IdentityApi)      |    x     |   5001   |   ASP.NET Core   |    C#    |
@@ -15,14 +15,14 @@
 
 | Framework                                                                    |
 | :---------------------------------------------------------------------------- |
-| [.NET Core](https://github.com/itsbibeksaini/docs/blob/main/DotNet/README.md)     |
-| [SpringBoot](https://github.com/itsbibeksaini/docs/blob/main/SpringBoot/README.md) |
+| [.NET Core](https://github.com/itsbibeksaini/docs/blob/main/DotNet)     |
+| [SpringBoot](https://github.com/itsbibeksaini/docs/blob/main/SpringBoot) |
 
 ## Setting up Kubernetes cluster
 
 | Topic                  |
 | :--------------------- |
-| [Consul service mesh]()             |
+| [Consul service mesh](https://github.com/itsbibeksaini/docs/tree/main/Consul)             |
 | [Ingress controller]() |
 | [Cert Manager]()       |
 
