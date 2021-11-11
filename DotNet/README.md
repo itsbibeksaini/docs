@@ -54,7 +54,7 @@ Following TDD approach.
 | [Swashbuckle Swagger](https://github.com/itsbibeksaini/docs/blob/main/DotNet/swagger.md) |
 |  [Entity framework](https://github.com/itsbibeksaini/docs/blob/main/DotNet/entityframework.md) |
 |     [Http Client](https://github.com/itsbibeksaini/docs/blob/main/DotNet/httpclient.md) |
-| [gRPC server and client] |
+| [gRPC server and client](https://github.com/itsbibeksaini/docs/blob/main/DotNet/gRPC.md) |
 | [Startup tasks] |
 | [Custom razor engine] |
 
