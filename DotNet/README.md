@@ -55,7 +55,7 @@ Following TDD approach.
 |  [Entity framework](https://github.com/itsbibeksaini/docs/blob/main/DotNet/entityframework.md) |
 |     [Http Client](https://github.com/itsbibeksaini/docs/blob/main/DotNet/httpclient.md) |
 | [gRPC server and client](https://github.com/itsbibeksaini/docs/blob/main/DotNet/gRPC.md) |
-| [Startup tasks] |
+| [Startup tasks](https://github.com/itsbibeksaini/docs/blob/main/DotNet/startuptask.md) |
 | [Custom razor engine] |
 
 
