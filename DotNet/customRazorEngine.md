@@ -11,6 +11,21 @@
 > The files containing Razor markup generally have a .cshtml file extension.
 > 
 
+### Configuring razor pages in startup
+
+```C#
+public void ConfigureServices(IServiceCollection services)
+{
+    ...
+    services.AddRazorPages();
+
+    // add custom razor engine implementation to singleton scope
+    services.AddSingleton<ICustomRazorEngine, CustomRazorEngine>();
+    ...
+}
+```
+
+### Adding custom razor implementation
 ```C#
 public async Task<string> RazorViewToHtmlAsync<TModel>(string viewName, TModel model)
 {
