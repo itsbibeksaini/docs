@@ -6,6 +6,11 @@
 ### Razor view engine
 > The Razor View Engine is the default View Engine for the ASP.NET Core apps. It looks for Razor markup in the View File and parses it and produces the HTML response.
 
+### The Razor Markup
+> The Controller in MVC invokes the View by passing the data to render. The Views must have the ability to process the data and generate a response. This is done using the Razor markup, which allows us to use C# code in an HTML file. The Razor View Engine process these markups to generate the HTML.
+> The files containing Razor markup generally have a .cshtml file extension.
+> 
+
 ```C#
 public async Task<string> RazorViewToHtmlAsync<TModel>(string viewName, TModel model)
 {
