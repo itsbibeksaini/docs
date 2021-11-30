@@ -85,3 +85,4 @@ public class CustomRazorEngine : ICustomRazorEngine
         }
     }
 ```
+Just add .cshtml and View models to prepare dyanamic data and custom html and them use custom razor engine to merge the both and get string out of it. 
