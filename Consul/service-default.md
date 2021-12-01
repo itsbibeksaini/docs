@@ -8,7 +8,7 @@ The service-defaults config entry kind (ServiceDefaults on Kubernetes) controls 
 apiVersion: consul.hashicorp.com/v1alpha1
 kind: ServiceDefaults
 metadata:
-  name: web
+  name: web # name of the service
 spec:
   protocol: http
 ```
