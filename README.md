@@ -23,7 +23,7 @@
 | Topic                  |
 | :--------------------- |
 | [Consul service mesh](https://github.com/itsbibeksaini/docs/tree/main/Consul)             |
-| [Ingress controller]() |
+| [Ingress](https://github.com/itsbibeksaini/docs/blob/main/k8s%20Ingress/Ingress.md) |
 | [Cert Manager]()       |
 
 ## Services and Api's used
