@@ -19,3 +19,23 @@ You must have an Ingress controller to satisfy an Ingress. Only creating an Ingr
 
 You may need to deploy an Ingress controller such as ingress-nginx. You can choose from a number of Ingress controllers.
 
+### Example
+```yaml
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: minimal-ingress
+  annotations:
+    nginx.ingress.kubernetes.io/rewrite-target: /
+spec:
+  rules:
+  - http:
+      paths:
+      - path: /testpath
+        pathType: Prefix
+        backend:
+          service:
+            name: test
+            port:
+              number: 80
+```
