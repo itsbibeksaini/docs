@@ -34,7 +34,7 @@
 | [SQL Server]()         |
 | [Sendgrid]()           |
 | [Helm charts]()        |
-| [Ocelot Api gateway]() |
+| [Ocelot Api gateway](https://github.com/itsbibeksaini/docs/tree/main/Ocelot) |
 
 ## Architecture
 
