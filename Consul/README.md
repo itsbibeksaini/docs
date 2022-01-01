@@ -100,7 +100,7 @@ server:
 | Topics                     |
 | :------------------------- |
 | [Ingress gateway]() |
-| [Transparent proxy]()      |
+| [Transparent proxy](https://github.com/itsbibeksaini/docs/blob/main/Consul/transparent-proxy.md)      |
 | [Service default]()       |
 | [Service router]()        |
 | [Proxy default]()         |
