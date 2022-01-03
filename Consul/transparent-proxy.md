@@ -25,3 +25,9 @@ Explicit upstreams are still supported in the proxy service registration on VMs 
   ```
 * It can also be enabled on a per namespace basis by setting the label `consul.hashicorp.com/transparent-proxy=true` on the Kubernetes namespace. This will override the Helm value `connectInject.transparentProxy.defaultEnabled` and define the default behavior of Pods in the namespace.
 * It can also be enabled on a per service basis via the annotation `consul.hashicorp.com/transparent-proxy=true` on the Pod for each service, which will override both the Helm value and the namespace label
+
+### Kubernetes HTTP Health Probes Configuration
+
+Traffic redirection interferes with Kubernetes HTTP health probes since the probes expect that kubelet can directly reach the application container on the probe's endpoint, but that traffic will be redirected through the sidecar proxy, causing errors because kubelet itself is not encrypting that traffic using a mesh proxy.
+For this reason, Consul allows you to overwrite Kubernetes HTTP health probes to point to the proxy instead.
+This can be done using the Helm value `connectInject.transparentProxy.defaultOverwriteProbes` or the Pod annotation `consul.hashicorp.com/transparent-proxy-overwrite-probes`.
