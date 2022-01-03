@@ -57,5 +57,6 @@ Following TDD approach.
 | [gRPC server and client](https://github.com/itsbibeksaini/docs/blob/main/DotNet/gRPC.md) |
 | [Startup tasks](https://github.com/itsbibeksaini/docs/blob/main/DotNet/startuptask.md) |
 | [Custom razor engine](https://github.com/itsbibeksaini/docs/blob/main/DotNet/customRazorEngine.md) |
+| [Custom authorization]() |
 
 
