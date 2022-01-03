@@ -99,9 +99,9 @@ server:
 
 | Topics                     |
 | :------------------------- |
-| [Ingress gateway]() |
+| [Ingress gateway](https://github.com/itsbibeksaini/docs/blob/main/Consul/ingress-gateway.md) |
 | [Transparent proxy](https://github.com/itsbibeksaini/docs/blob/main/Consul/transparent-proxy.md)      |
-| [Service default]()       |
-| [Service router]()        |
+| [Service default](https://github.com/itsbibeksaini/docs/blob/main/Consul/service-default.md)       |
+| [Service router](https://github.com/itsbibeksaini/docs/blob/main/Consul/service-router.md)        |
 | [Proxy default]()         |
 
