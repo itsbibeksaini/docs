@@ -102,4 +102,4 @@ server:
 | [Transparent proxy](https://github.com/itsbibeksaini/docs/blob/main/Consul/transparent-proxy.md) |
 | [Service default](https://github.com/itsbibeksaini/docs/blob/main/Consul/service-default.md)     |
 | [Service router](https://github.com/itsbibeksaini/docs/blob/main/Consul/service-router.md)       |
-| [Proxy defaults]()                                                                               |
+| [Proxy defaults](https://github.com/itsbibeksaini/docs/blob/main/Consul/proxy-defaults.md)       |
