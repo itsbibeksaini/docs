@@ -2,7 +2,6 @@
 
 Consul is a service networking solution to automate network configurations, discover services, and enable secure connectivity across any cloud or runtime.
 
-
 ## Config
 
 > Following are the configuration which is being used to make use of consul service discovery.
@@ -97,11 +96,10 @@ server:
     maxUnavailable: 0
 ```
 
-| Topics                     |
-| :------------------------- |
-| [Ingress gateway](https://github.com/itsbibeksaini/docs/blob/main/Consul/ingress-gateway.md) |
-| [Transparent proxy](https://github.com/itsbibeksaini/docs/blob/main/Consul/transparent-proxy.md)      |
-| [Service default](https://github.com/itsbibeksaini/docs/blob/main/Consul/service-default.md)       |
-| [Service router](https://github.com/itsbibeksaini/docs/blob/main/Consul/service-router.md)        |
-| [Proxy default]()         |
-
+| Topics                                                                                           |
+| :----------------------------------------------------------------------------------------------- |
+| [Ingress gateway](https://github.com/itsbibeksaini/docs/blob/main/Consul/ingress-gateway.md)     |
+| [Transparent proxy](https://github.com/itsbibeksaini/docs/blob/main/Consul/transparent-proxy.md) |
+| [Service default](https://github.com/itsbibeksaini/docs/blob/main/Consul/service-default.md)     |
+| [Service router](https://github.com/itsbibeksaini/docs/blob/main/Consul/service-router.md)       |
+| [Proxy defaults]()                                                                               |
