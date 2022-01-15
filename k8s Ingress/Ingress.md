@@ -39,4 +39,4 @@ spec:
 
 | Topics |
 | :----- |
-| [Ingress controller]() |
+| [Ingress controller](https://github.com/itsbibeksaini/docs/blob/main/k8s%20Ingress/ingressController.md) |
