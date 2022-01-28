@@ -37,3 +37,4 @@ Also there is choice to choose between maven or gradle build system.(I prefer gr
 | [JWT Filter]() |
 | [Security config]() |
 | [Authentication entrypoint]() |
+| [Model Mapper]() |
