@@ -35,6 +35,7 @@
 | [Sendgrid]()           |
 | [Helm charts]()        |
 | [Ocelot Api gateway](https://github.com/itsbibeksaini/docs/tree/main/Ocelot) |
+| [Consul vault]() |
 
 ## Architecture
 
