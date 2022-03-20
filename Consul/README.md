@@ -103,3 +103,5 @@ server:
 | [Service default](https://github.com/itsbibeksaini/docs/blob/main/Consul/service-default.md)     |
 | [Service router](https://github.com/itsbibeksaini/docs/blob/main/Consul/service-router.md)       |
 | [Proxy defaults](https://github.com/itsbibeksaini/docs/blob/main/Consul/proxy-defaults.md)       |
+| [API Gateway]() |
+| [HTTPRoute]() |
