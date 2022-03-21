@@ -81,6 +81,13 @@ client:
   ## If true, agents will enable their GRPC listener.
   grpc: true
 
+## It will configure consul api gateway.
+apiGateway:
+ enabled: true
+ image: "hashicorp/consul-api-gateway:0.1.0"
+ logLevel: debug
+
+
 # Use only one Consul server for local development
 ## Server, when enabled, configures a server cluster to run.
 server:
