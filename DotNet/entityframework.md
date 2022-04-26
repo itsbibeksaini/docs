@@ -53,7 +53,7 @@ public class IdentityStoreFactory : IDesignTimeDbContextFactory<IdentityStore>
 
             DbContextOptionsBuilder<IdentityStore> builder = new();
 
-            string connectionString = configuration.GetConnectionString("IdentityStoreConnectionString");
+            string connectionString = configuration.GetConnectionString("<Name to connection string>");
 
             builder.UseSqlServer(connectionString);
 
