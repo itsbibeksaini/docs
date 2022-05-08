@@ -15,3 +15,6 @@ After image is pulled and extracted now its time to create Docker container for 
 
 The command above require sudo(superuser do) to perform thee opperation at root.
 Make sure to keep a strong password even you are running this on local system.
+
+To use MS Sql server in application you can add server address as: ```host.docker.internal,1433```
+> Docker internal which resolves to the internal IP address used by the host. This is for development purpose and will not work in a production environment
