@@ -9,7 +9,7 @@
 | [PolicyApi](https://github.com/itsbibeksaini/PolicyApi)        |   6002   |   5003   |   ASP.NET Core   |    C#    |
 | [SettingsApi](https://github.com/itsbibeksaini/SettingsApi)      |    x     |   5004   |    SpringBoot    |   Java   |
 | [NotificationsApi](https://github.com/itsbibeksaini/NotificationApi) |    x     |   5005   |   ASP.NET Core   |    C#    |
-| [WorklogApi](https://github.com/TMExperimentals/WorklogApi) | x | x | Ktor | Kotlin |
+| [WorklogApi](https://github.com/TMExperimentals/WorklogApi) | x | 5006 | Ktor | Kotlin |
 | [ClientApp](https://github.com/itsbibeksaini/ClientApp) | x | 80 | Angular | Typescript |
 
 
