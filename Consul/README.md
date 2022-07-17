@@ -84,7 +84,7 @@ client:
 ## It will configure consul api gateway.
 apiGateway:
  enabled: true
- image: "hashicorp/consul-api-gateway:0.2.0"
+ image: "hashicorp/consul-api-gateway:0.3.0"
  logLevel: debug
 
 
