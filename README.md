@@ -22,6 +22,7 @@
 | [Ktor](https://github.com/TMExperimentals/docs/tree/main/Ktor) |
 
 ## Setting up Kubernetes cluster
+> Before proceeding, k8s cluster resource must be created. These has been tested to: minikube, docker-kubernetes, azure-kubernetes-services(AKS)
 
 | Topic                  |
 | :--------------------- |
