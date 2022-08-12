@@ -3,10 +3,10 @@
 | Service          |   gRPC   |   HTTP   |       Framework       | Language |
 | :--------------- | :------: | :------: | :--------------: | :------: |
 | ~~[GatewayApi](https://github.com/itsbibeksaini/GatewayApi)~~       |    ~~x~~     |   ~~5000~~   |   ~~ASP.NET Core~~   |    ~~C#~~    |
-| [IdentityApi](https://github.com/itsbibeksaini/IdentityApi)      |    x     |   5001   |   ASP.NET Core   |    C#    |
+| [IdentityApi](https://github.com/itsbibeksaini/IdentityApi)      |    x     |   8080   |   ASP.NET Core   |    C#    |
 | ~~[AuthApi](https://github.com/itsbibeksaini/AuthApi)~~      |  ~~x~~   | ~~5001~~ | ~~ASP.NET Core~~ |  ~~C#~~  |
 | ~~[AccountApi](https://github.com/itsbibeksaini/AccountApi)~~   | ~~6001~~ | ~~5002~~ | ~~ASP.NET Core~~ |  ~~C#~~  |
-| [PolicyApi](https://github.com/itsbibeksaini/PolicyApi)        |   6002   |   5003   |   ASP.NET Core   |    C#    |
+| [PolicyApi](https://github.com/itsbibeksaini/PolicyApi)        |   6900   |   8080   |   ASP.NET Core   |    C#    |
 | [SettingsApi](https://github.com/itsbibeksaini/SettingsApi)      |    x     |   5004   |    SpringBoot    |   Java   |
 | [NotificationsApi](https://github.com/itsbibeksaini/NotificationApi) |    x     |   5005   |   ASP.NET Core   |    C#    |
 | [WorklogApi](https://github.com/TMExperimentals/WorklogApi) | x | 5006 | Ktor | Kotlin |
