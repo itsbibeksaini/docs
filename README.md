@@ -25,7 +25,8 @@
 > Before proceeding, k8s cluster resource must be created. These has been tested to: minikube, docker-kubernetes, azure-kubernetes-services(AKS)
 
 | Topic                  |
-| :--------------------- |
+| :--                    |
+| [Generating secrets]() |
 | [Consul service mesh](https://github.com/itsbibeksaini/docs/tree/main/Consul)             |
 | [Ingress](https://github.com/itsbibeksaini/docs/tree/main/k8s%20Ingress) |
 | [Cert Manager](https://github.com/itsbibeksaini/docs/tree/main/Cert%20Manager)       |
