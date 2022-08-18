@@ -4,5 +4,5 @@ A Secret is an object that contains a small amount of sensitive data such as a p
 
 | Topics |
 | :-- |
-| (RSA private and public keys)[] |
-| (Database connection and credentials)[] |
+| [RSA private and public keys]() |
+| [Database connection and credentials]() |
