@@ -26,7 +26,7 @@
 
 | Topic                  |
 | :--                    |
-| [Generating secrets]() |
+| [Generating secrets](https://github.com/itsbibeksaini/docs/tree/main/Secrets) |
 | [Consul service mesh](https://github.com/itsbibeksaini/docs/tree/main/Consul)             |
 | [Ingress](https://github.com/itsbibeksaini/docs/tree/main/k8s%20Ingress) |
 | [Cert Manager](https://github.com/itsbibeksaini/docs/tree/main/Cert%20Manager)       |
