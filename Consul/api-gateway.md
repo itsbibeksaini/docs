@@ -6,7 +6,7 @@ Control Access into the Service Mesh with Consul API Gateway
 ### Create the Consul API Gateway Controller CRDs
 Create the custom resource definitions (CRD) for the API Gateway Controller.
 ```
-kubectl apply --kustomize "github.com/hashicorp/consul-api-gateway/config/crd?ref=v0.3.0"
+kubectl apply --kustomize "github.com/hashicorp/consul-api-gateway/config/crd?ref=v0.4.0"
 ```
 ### Consul helm config
 
@@ -14,7 +14,7 @@ kubectl apply --kustomize "github.com/hashicorp/consul-api-gateway/config/crd?re
 ## It will configure consul api gateway.
 apiGateway:
  enabled: true
- image: "hashicorp/consul-api-gateway:0.3.0"
+ image: "hashicorp/consul-api-gateway:0.4.0"
  logLevel: debug
 ```
 
