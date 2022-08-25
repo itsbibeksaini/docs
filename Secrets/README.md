@@ -12,3 +12,4 @@ Kubernetes Secrets are, by default, stored unencrypted in the API server's under
 | :-- |
 | [RSA private and public keys](https://github.com/itsbibeksaini/docs/blob/main/Secrets/RSA.md) |
 | [Database connection and credentials]() |
+| [Mailjet secrets() ]
