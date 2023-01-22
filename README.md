@@ -42,6 +42,11 @@
 | [Ocelot Api gateway](https://github.com/itsbibeksaini/docs/tree/main/Ocelot) |
 | [Consul vault]() |
 
+## Custom gradle plugins
+
+| Topics |
+| :-- |
+
 ## Architecture
 
 ## Pipeline setup
