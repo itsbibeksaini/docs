@@ -6,7 +6,13 @@ Jest is a delightful JavaScript Testing Framework with a focus on simplicity.
 
 JavaScript is programming language and Typescript is superset of javaScript.TypeScript unit testing differs from regular JavaScript unit testing in at least two ways. First of all, by leveraging static typing, a whole class of errors becomes impossible. So, you probably end up writing fewer tests. Also, TypeScript unit testing requires you to install some additional packages, which are needed to make the unit testing tools work with non-standard JavaScript syntax.
 
-## Setup jest with React using TypeScript 
+## Setup jest with React using TypeScript
+
+To setup we need following packages in our projects:
+
+```cli
+npm i -D @babel/preset-env @babel/preset-react @babel/preset-typescript jest
+```
 
 ### Babel
 
