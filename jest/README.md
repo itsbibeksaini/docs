@@ -41,14 +41,17 @@ We need to use presets that have the environment in which we want the code to be
 
 ```json
 {
-     "testEnvironment": "jsdom",
-     "verbose": true,
-     "moduleNameMapper": {
-         "src/(.*)": "<rootDir>/src/$1",
-               "\\.(jpg|jpeg|png|gif|eot|otf|webp|svg|ttf|woff|woff2|mp4|webm|wav|mp3|m4a|aac|oga)$": "<rootDir>/__mocks__/fileMock.js",
-               "\\.(css|scss|less)$": "<rootDir>/__mocks__/styleMock.js"
-      }
- }
+  "testEnvironment": "jsdom",
+  "verbose": true,
+  "moduleNameMapper": {
+    "src/(.*)": "<rootDir>/src/$1",
+    "\\.(jpg|jpeg|png|gif|eot|otf|webp|svg|ttf|woff|woff2|mp4|webm|wav|mp3|m4a|aac|oga)$": "<rootDir>/mocks/fileMock.js",
+    "\\.(css|scss|less)$": "<rootDir>/mocks/styleMock.js",
+    "(assets|models|services)": "<rootDir>/mocks/fileMock.js"
+  },
+  "modulePaths": ["<rootDir>"],
+  "setupFilesAfterEnv": ["<rootDir>/src/setupTests.ts"]
+}
 ```
 
 > __ mocks __/styleMock.js
