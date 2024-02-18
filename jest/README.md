@@ -11,7 +11,7 @@ JavaScript is programming language and Typescript is superset of javaScript.Type
 To setup we need following packages in our projects:
 
 ```cli
-npm i -D @babel/preset-env @babel/preset-react @babel/preset-typescript jest
+npm i -D @babel/preset-env @babel/preset-react @babel/preset-typescript @testing-library/jest-dom jest-environment-jsdom jest
 ```
 
 ### Babel
